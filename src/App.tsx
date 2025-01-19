@@ -53,8 +53,8 @@ function App() {
               Das liegt <span className="font-bold">nicht</span> an dir oder deinen Maklern.
             </p>
             <p className="text-lg leading-relaxed mb-4">
-              <span className="font-bold">Die Wahrheit ist</span>: Die veraltete Technologie in der Immobilienbranche lässt selbst die besten Teams im Stich. 
-              Mit einer durchschnittlichen Reaktionszeit von 15 Stunden und 29 Minuten verlieren Top-Makler wertvolle Chancen.
+              <span className="font-bold">Die Wahrheit ist</span>: Die Tools im Office-Management der Immobilienbranche lassen selbst die besten Teams im Stich. 
+              Ganze 47 % der E-Mail-Anfragen bleiben unbeantwortet; so verlieren selbst Top-Makler wertvolle Chancen.
             </p>
             <p className="text-lg leading-relaxed">
               <span className="font-bold">Simple Mathematik, gestützt durch</span> aktuelle Branchenstudien (siehe Quellen unten), zeigen: 
