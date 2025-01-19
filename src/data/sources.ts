@@ -16,11 +16,11 @@ export const sources = [
     url: "https://fastercapital.com/de/inhalt/Kundenzufriedenheit-im-Immobilienbereich--Die-Kraft-der-Kundenzufriedenheit-bei-Immobilien-Startups-freisetzen.html"
   },
   {
-    text: "Die durchschnittliche Antwortzeit auf Kundenanfragen in 2017 beträgt 15 Stunden und 17 Minuten.",
-    url: "https://www.superoffice.de/quellen/artikel/customer-service-study"
+    text: "88 % der befragten Kunden sagen, dass guter Kundenservice sie eher dazu bringt, erneut zu kaufen und 80 % der Kunden sagen, dass die Erfahrung, die ein Unternehmen bietet, genauso wichtig ist wie seine Produkte oder Dienstleistungen. (Salesforce Research)",
+    url: "https://blog.hubspot.com/service/customer-service-stats?"
   },
   {
-    text: "70 % aller Kunden erwarten eine Antwort innerhalb von 15 Minuten, unabhängig vom Kommunikationskanal - 2022",
+    text: "Das Kundenbarometer 2022 sagt, dass 70 % aller Kunden eine Antwort innerhalb von 15 Minuten erwarten, unabhängig vom Kommunikationskanal",
     url: "https://bolzhauser.de/insights/studie-kundenservice-barometer-2022/"
   }
 ];
