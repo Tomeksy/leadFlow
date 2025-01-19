@@ -42,7 +42,7 @@ function App() {
             Garantiert
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-blue-600 to-teal-400"></span>
           </span>
-          {' '}- mehr Kunden durch 18-Sekunden Lead Response
+          {' '}- mehr Kunden durch 38-Sekunden Lead Response
         </h1>
 
         {/* Problem Statement Section */}
