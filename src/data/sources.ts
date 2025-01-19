@@ -8,7 +8,7 @@ export const sources = [
     url: "https://www.telekom-mms.com/whitepaper/user-guide-digitale-immobilienwirtschaft"
   },
   {
-    text: "Von Poll Immobilien konnte durch den Einsatz eines CRM-Systems die Conversion-Rate um 20 % steigern.",
+    text: "'Von Poll' Immobilien konnte durch die Automatisierung ihrer CRM-Prozesse die Bearbeitungszeit von 24 Stunden auf wenige Minuten reduzieren - bei gleichzeitiger Steigerung der Auftragsquote und Kundenzufriedenheit.",
     url: "https://www.hubspot.de/case-studies/von-poll"
   },
   {
