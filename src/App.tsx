@@ -42,7 +42,7 @@ function App() {
             Garantiert
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-blue-600 to-teal-400"></span>
           </span>
-          {' '}- mehr Kunden durch 38-Sekunden Lead Response
+          {' '}— mehr Kunden durch 38-Sekunden Lead Response
         </h1>
 
         {/* Problem Statement Section */}
@@ -74,8 +74,8 @@ function App() {
           <div className="aspect-video w-full rounded-xl overflow-hidden shadow-lg">
             <iframe 
               className="w-full h-full"
-              src="https://www.youtube.com/embed/uZzpI9C_NLw" 
-              title="WriteMap - eine kostenlose Software, die ChatGPT beibringt, wie DU klingst und schreibst."
+              src="https://www.youtube.com/embed/ytarlZpAMaI" 
+              title="LeadFlow — mehr Kunden durch 38-Sekunden Lead Response"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
               allowFullScreen
             ></iframe>
@@ -88,7 +88,7 @@ function App() {
             🚀 Innovation sucht Pioniere
           </h2>
           <p className="text-lg mb-4">
-            Das Harvest Flow Immo-AI System ist mehr als eine Idee - es ist ein getestetes System, 
+            Das Harvest Flow — LeadFlow System ist mehr als eine Idee - es ist ein getestetes System, 
             das nur noch wenige Wochen vom Praxis-Einsatz ist.
           </p>
           <div className="space-y-4 mb-6">
